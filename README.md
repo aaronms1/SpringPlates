@@ -6,3 +6,5 @@ https://github.com/dacsec-org/0auth-spring-boiler
 https://github.com/dacsec-org/0auth-spring-boiler-gradle17
 <p>
 https://github.com/dacsec-org/0auth-spring-pg-container-boiler
+<p>
+https://github.com/Scott-Stellmach/0Auth-spring-GraphQL-boiler-Gradle17
